@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "colecao.h": "c"
+    }
+}
